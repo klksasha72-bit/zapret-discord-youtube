@@ -1,4 +1,4 @@
-@echo off
+@echo on
 chcp 65001 > nul
 :: 65001 - UTF-8
 
